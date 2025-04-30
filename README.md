@@ -31,7 +31,7 @@ The project also incorporates the Google Generative AI API (Palm) to generate in
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AjayK47/Fruits-vegetables-Classification-and-Nutrition-analysisusing-Inception-V3.git
+    git clone https://github.com/shreyajammula/Fruits-vegetables-Classification-and-Nutrition-analysisusing-Inception-V3.git
     ```
 
 2. Download the Food Dataset from Kaggle:
